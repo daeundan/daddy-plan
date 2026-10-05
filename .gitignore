@@ -1,0 +1,6 @@
+*
+!.gitignore
+!index.html
+!trip.html
+!web/
+!web/*.jpg
